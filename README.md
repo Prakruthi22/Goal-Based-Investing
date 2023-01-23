@@ -1,3 +1,15 @@
+Financial Planning is about ensuring that user has the right amount of money at the right 
+time to fulfil their needs on time. Insurance policies provides the user’s family with the 
+right amounts in case of uncertain needs and unfortunate events. But, what about your 
+family needs that are certain to be fulfilled in the future? For example, children’s 
+education, home renovation, retirement, etc. How would one utilize their existing 
+investments and make additional investments to fulfil these needs? Goals-based investing 
+is a method meant for planning these investments. This method is not only about planning 
+but also tracking the progress of the plan as time goes by and making sure that your needs 
+are fulfilled peacefully on-time. 
+
+This project is created using React js. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
